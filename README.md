@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Hammair Ahmed Awan
 
-<!--
-**hammairawan/hammairawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Graphic Designer | 🔥 Thumbnail Specialist | 💻 Freelancer on Upwork
 
-Here are some ideas to get you started:
+💡 Passionate about helping YouTubers get more views with scroll-stopping thumbnails.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tools I Use:
+- Adobe Photoshop
+- Illustrator
+- Canva
+- Figma
+
+---
+
+## 🖼 Featured Thumbnails
+| YouTube Style | Thumbnail |
+|---------------|-----------|
+| Tech | ![Tech Thumbnail](https://raw.githubusercontent.com/hammairawan/portfolio/main/thumbnails/tech1.jpg) |
+| Vlog | ![Vlog Thumbnail](https://raw.githubusercontent.com/hammairawan/portfolio/main/thumbnails/vlog1.jpg) |
+| Education | ![Edu Thumbnail](https://raw.githubusercontent.com/hammairawan/portfolio/main/thumbnails/edu1.jpg) |
+
+---
+
+## 📫 Let's Connect!
+📧 hammair@email.com  
+🔗 [My Portfolio Website](https://hammairawan.github.io/portfolio)  
+🌟 [Upwork Profile](#) |
