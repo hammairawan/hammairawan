@@ -17,9 +17,9 @@
 ## 🖼 Featured Thumbnails
 | YouTube Style | Thumbnail |
 |---------------|-----------|
-| Gaming | ![Gaming Thumbnail](https://raw.githubusercontent.com/hammairawan/portfolio/main/thumbnails/tech1.png) |
-| Documentry | ![Documentry Thumbnail](https://raw.githubusercontent.com/hammairawan/portfolio/main/thumbnails/vlog1.jpg) |
-| Sport | ![Sport Thumbnail](https://raw.githubusercontent.com/hammairawan/portfolio/main/thumbnails/edu1.jpg) |
+| Gaming | ![Gaming Thumbnail](https://raw.githubusercontent.com/hammairawan/portfolio/main/thumbnails/GAMING.jpg) |
+| Documentry | ![Documentry Thumbnail](https://github.com/hammairawan/hammairawan/blob/main/American%20Woman%20to%20Quran%2004.png) |
+| Sport | ![Sport Thumbnail](https://raw.githubusercontent.com/hammairawan/portfolio/main/thumbnails/Jeremy%Lin%00.png) |
 
 ---
 
