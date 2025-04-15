@@ -1,29 +1,43 @@
-# 👋 Hi, I'm Hammair Ahmed Awan
+# 🎯 YouTube Thumbnail Portfolio
 
-🎨 Graphic Designer | 🔥 Thumbnail Specialist | 💻 Freelancer on Upwork
-
-💡 Passionate about helping YouTubers get more views with scroll-stopping thumbnails.
+Hi, I'm **Hammair Ahmed Awan** — a graphic designer focused on creating scroll-stopping YouTube thumbnails that boost views and clicks.
 
 ---
 
-## 🛠 Tools I Use:
+## 🖼️ Featured Thumbnails
+
+| Category     | Preview                                 |
+|--------------|-----------------------------------------|
+| 🎮 Gaming     | ![Gaming](thumbnails/gaming.jpg)         |
+| 🎥 Documentary | ![Documentary](thumbnails/documentry.png) |
+| ⚽ Sports      | ![Sports](thumbnails/sport.png)           |
+
+---
+
+## 🧠 My Design Formula
+
+- 🎯 Bold Titles with strong contrast
+- 👀 Eye-catching visuals & emotions
+- 🧱 Consistent layout for branding
+- 🚫 No clutter — just scroll-stopping design
+
+---
+
+## 🛠 Tools I Use
+
 - Adobe Photoshop
-- Illustrator
 - Canva
-- Figma
+- Illustrator
 
 ---
 
-## 🖼 Featured Thumbnails
-| YouTube Style | Thumbnail |
-|---------------|-----------|
-| Tech | ![Tech Thumbnail](https://raw.githubusercontent.com/hammairawan/portfolio/main/thumbnails/tech1.jpg) |
-| Vlog | ![Vlog Thumbnail](https://raw.githubusercontent.com/hammairawan/portfolio/main/thumbnails/vlog1.jpg) |
-| Education | ![Edu Thumbnail](https://raw.githubusercontent.com/hammairawan/portfolio/main/thumbnails/edu1.jpg) |
+## 📫 Contact Me
+
+📧 Email: hammair@email.com  
+🌐 Portfolio: [hammairawan.github.io/portfolio](https://hammairawan.github.io/portfolio)  
+💼 Upwork: [My Profile](#)  
+📷 Instagram: [@yourhandle](#)
 
 ---
 
-## 📫 Let's Connect!
-📧 hammairahmedawan@email.com  
-🔗 [My Portfolio Website](https://hammairawan.github.io/portfolio)  
-🌟 [Upwork Profile]([/freelancers/~01b7870ecc690fa573?mp_source=share](https://www.upwork.com/freelancers/~01b7870ecc690fa573))
+*Let your thumbnail be the reason someone clicks.*
