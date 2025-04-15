@@ -17,9 +17,9 @@
 ## 🖼 Featured Thumbnails
 | YouTube Style | Thumbnail |
 |---------------|-----------|
-| Tech | ![Tech Thumbnail](https://raw.githubusercontent.com/hammairawan/portfolio/main/thumbnails/tech1.jpg) |
-| Vlog | ![Vlog Thumbnail](https://raw.githubusercontent.com/hammairawan/portfolio/main/thumbnails/vlog1.jpg) |
-| Education | ![Edu Thumbnail](https://raw.githubusercontent.com/hammairawan/portfolio/main/thumbnails/edu1.jpg) |
+| Gaming | ![Gaming Thumbnail](https://raw.githubusercontent.com/hammairawan/portfolio/main/thumbnails/tech1.png) |
+| Documentry | ![Documentry Thumbnail](https://raw.githubusercontent.com/hammairawan/portfolio/main/thumbnails/vlog1.jpg) |
+| Sport | ![Sport Thumbnail](https://raw.githubusercontent.com/hammairawan/portfolio/main/thumbnails/edu1.jpg) |
 
 ---
 
