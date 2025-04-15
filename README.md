@@ -26,4 +26,4 @@
 ## 📫 Let's Connect!
 📧 hammairahmedawan@email.com  
 🔗 [My Portfolio Website](https://hammairawan.github.io/portfolio)  
-🌟 [Upwork Profile](/freelancers/~01b7870ecc690fa573?mp_source=share) |
+🌟 [Upwork Profile]([/freelancers/~01b7870ecc690fa573?mp_source=share](https://www.upwork.com/freelancers/~01b7870ecc690fa573))
