@@ -24,6 +24,6 @@
 ---
 
 ## 📫 Let's Connect!
-📧 hammair@email.com  
+📧 hammairahmedawan@email.com  
 🔗 [My Portfolio Website](https://hammairawan.github.io/portfolio)  
-🌟 [Upwork Profile](#) |
+🌟 [Upwork Profile](/freelancers/~01b7870ecc690fa573?mp_source=share) |
